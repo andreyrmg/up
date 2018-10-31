@@ -1,0 +1,11 @@
+[[package]]
+name = "config"
+version = "0.1.0"
+
+[[package]]
+name = "up"
+version = "0.1.0"
+dependencies = [
+ "config 0.1.0",
+]
+

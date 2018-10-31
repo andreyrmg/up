@@ -1,0 +1,7 @@
+.*
+!.gitignore
+instance/
+out/
+src/*
+!src/**/*.rs
+target/

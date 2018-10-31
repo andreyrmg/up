@@ -1,0 +1,7 @@
+[package]
+name = "up"
+version = "0.1.0"
+authors = ["Andrey Manzharov <manzharov@krista.ru>"]
+
+[dependencies]
+config = { path = "config" }
